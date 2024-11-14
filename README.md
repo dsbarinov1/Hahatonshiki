@@ -1,2 +1,1 @@
-# Hahatonshiki
-# Hahatonshiki
+# Квантовый хакатон QuantNN от ННГУ им. Лобачевского
